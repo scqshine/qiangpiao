@@ -1,7 +1,7 @@
 #### 12306 购票小助手
 
 - python版本支持
-  - 2.7.10 - 2.7.15
+  - 2.7.10 - 2.7.15 
 - 依赖库
   - 依赖若快 若快注册地址：http://www.ruokuai.com/client/index?6726 推荐用若快，打码兔平台已经关闭
   - 项目依赖包 requirements.txt
@@ -46,16 +46,7 @@
      ![image](https://github.com/testerSunshine/12306/blob/master/uml/uml.png)
 
 - 项目声明：
-  - 本软件只供学习交流使用，勿作为商业用途，交流群号
-    - 1群：286271084(已满)
-    - 2群：649992274(已满)
-    - 3群：632501142(已满)
-    - 4群: 606340519(已满)
-    - 5群: 948526733(已满)
-    - 6群: 444101020(未满)
-    - 7群: 660689659(未满)
-  - 请不要重复加群，一个群就可以了，把机会留给更多人
-  - **进群先看公告！！！进群先看公告！！！进群先看公告！！！ 重要的事情说三遍**
+  - 本软件只供学习交流使用，勿作为商业用途
   - 能为你抢到一张回家的票，是我最大的心愿
 
 - 成功log，如果是购票失败的，请带上失败的log给我，我尽力帮你调，也可加群一起交流，程序只是加速买票的过程，并不一定能买到票
@@ -97,8 +88,3 @@
     - @[MonsterTan](https://github.com/MonsterTan)
     - 以及所有为此项目提供pr的同学
 - [更新日志](Update.md)
-
-- 如果觉得项目还不错，可以考虑打赏一波
-    -
-    ![image](https://github.com/testerSunshine/12306/blob/master/uml/wx.jpeg?imageMogr2/auto-orient/strip)
-    ![image](https://github.com/testerSunshine/12306/blob/master/uml/zfb.jpeg?imageMogr2/auto-orient/strip)
